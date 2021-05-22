@@ -1,0 +1,30 @@
+body {
+    color: orangered;
+    background-color: black;
+    font-family:Cambria;
+    font-size: 150%;
+    margin: 2em 15%;
+    
+ }
+
+ .paragragh {
+     font-size: 20px;
+ }
+
+ 
+footer {
+	font-size: 15px;
+}
+
+section {
+	margin: 1.875em 0;
+}
+
+div {
+    padding: 25px 50px 75px 100px;
+  }
+
+header {
+    padding: 25px 50px 75px 100px;
+}
+
