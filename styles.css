@@ -1,18 +1,31 @@
 body {
-    color: orangered;
-    background-color: black;
-    font-family:Cambria;
-    font-size: 150%;
-    margin: 2em 15%;
-    
- }
+    color:rgb(210, 224, 9);
+    background-color:whitesmoke;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 15pt;
+    font-weight: 400;
+    /* overflow-x: hidden;  */
+    /* font-size: 150%; */
+    /* margin: 2em 15%; */
+     }
+
+     header {
+        background-color: #1585a1;
+        text-align: center;
+         height: auto; 
+         padding: 20px;
+        
+        /* padding: 20px;
+        margin: 0px;  */
+    }
 
  .paragragh {
-     font-size: 20px;
+     font-size: 25px;
  }
 
  
 footer {
+    background-color: #429201;
 	font-size: 15px;
 }
 
@@ -24,7 +37,4 @@ div {
     padding: 25px 50px 75px 100px;
   }
 
-header {
-    padding: 25px 50px 75px 100px;
-}
 
